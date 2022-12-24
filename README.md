@@ -8,6 +8,15 @@ Manga Downloader for site https://mangalib.me/
 [Пример использования](https://www.twitch.tv/videos/548637154) 
 [Инструкция по установке](https://youtu.be/A5ZTIHvd9FE)
 -------
+## Установка закладкой в браузере
+![](https://nyaa.shikimori.one/system/user_images/thumbnail/108410/1349465.jpg)
+
+В поле **URL** вставить весь код скрипта из файла **MangaDownloader.js**
+
+Перед активацией скачивания глав убрать флаг \ галочку 
+
+![](https://camo-v3.shikimori.one/8d7c1bb70b8ea1b1edf7493c5e26335ed1c150dc?url=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F760913741016858676%2F801208667222573067%2Funknown.png)
+-----
 Примеры выполнения (без учета тома):
 - Пустая строка = скачать все главы. 
   ```js
