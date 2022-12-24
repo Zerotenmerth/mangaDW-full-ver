@@ -3,10 +3,8 @@
 --------
 Установка возможна как закладкой в браузере, так и для расширения Tampermonkey.
 
-Manga Downloader for site https://mangalib.me/
-
 [Пример использования](https://www.twitch.tv/videos/548637154) 
-[Инструкция по установке](https://youtu.be/A5ZTIHvd9FE)
+[Видеоинструкция](https://youtu.be/A5ZTIHvd9FE)
 -------
 ## Установка закладкой в браузере
 ![](https://nyaa.shikimori.one/system/user_images/thumbnail/108410/1349465.jpg)
